@@ -19,5 +19,5 @@ btnCheck.addEventListener('click', () => {
     message.textContent = 'Numero troppo basso';
     score.textContent--;
   }
-  message.textContent = 'Indovinato';
+  message.textContent = 'Esatto';
 });
