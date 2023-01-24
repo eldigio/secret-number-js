@@ -2,8 +2,8 @@
 
 const initColor = '#222';
 const winColor = '#60b347';
-let score = 20;
 let highScore = 0;
+let score = 20;
 
 const button = document.querySelector('.check');
 const again = document.querySelector('.again');
